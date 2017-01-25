@@ -51,7 +51,7 @@ class AboutAsserts(Koan):
         """
         Understand what lies within.
         """
-
+"""Hello Sir """
         # This throws an AssertionError exception
         assert False
 
